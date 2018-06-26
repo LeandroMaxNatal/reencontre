@@ -1,0 +1,17 @@
+.form-wrapper {
+    /* border: 1px solid blue; */
+    background: rgba(0, 0, 0,0.4);
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    /* margin-top: px; */
+    width: 100%;
+}
+
+h5 {
+    color: white;
+}
+
+textarea {
+    width: 100%;
+}
